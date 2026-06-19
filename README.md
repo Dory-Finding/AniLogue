@@ -21,7 +21,7 @@
 ## 📸 Tampilan Aplikasi
 
 <p align="center">
-  <img src="flow.png" width="800" alt="Tampilan Aplikasi AniLogue">
+  <img src="Flow.png" width="800" alt="Tampilan Aplikasi AniLogue">
 </p>
 
 ---
