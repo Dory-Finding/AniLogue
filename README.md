@@ -20,11 +20,9 @@
 
 ## 📸 Tampilan Aplikasi
 
-|                        Beranda                        |                      Pemutar Audio                      |                    Koleksi & Riwayat                     |
-| :---------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------------: |
-| <img src="URL_GAMBAR_HOME" width="250" alt="Beranda"> | <img src="URL_GAMBAR_PLAYER" width="250" alt="Pemutar"> | <img src="URL_GAMBAR_LIBRARY" width="250" alt="Library"> |
-
-_(Catatan: Ganti `URL_GAMBAR_...` dengan URL/path asli dari screenshot aplikasimu yang akan diunggah ke GitHub)._
+<p align="center">
+  <img src="flow.png" width="800" alt="Tampilan Aplikasi AniLogue">
+</p>
 
 ---
 
